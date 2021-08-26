@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rasoulhekmati2
 - 👀 I’m interested in data science and machine learning
 - 💞️ I’m looking to collaborate on challenging projects
-- 📫 How to reach me ...
+- 📫 How to reach me rasoul_hekmati@yahoo.com
 
 <!---
 rasoulhekmati2/rasoulhekmati2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
